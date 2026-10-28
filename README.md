@@ -50,5 +50,7 @@ Deux lignes comportent volontairement une donnée manquante pour illustrer les c
 Excel (formules, validations de données, mises en forme conditionnelles)
 
 ## Aperçu
-![Priorités](priorites.png)
+![Priorités](priorites1.png)
+![Priorités](priorites2.png)
 ![Rapport client](rapport-client.png)
+![Rapport client](rapport-client2.png)
